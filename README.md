@@ -4,7 +4,7 @@ Hi 👋 My name is Nadia
 Software Developer
 ------------------
 
-I'm a dedicated Frontend Software Developer passionate about creating intuitive, engaging, and performant web applications. I am committed to staying up to date with emerging technologies and best practices, allowing me to tackle complex challenges with innovative solutions. I love collaborating and learning, and I'm looking forward to being part of teams that create impactful solutions. Explore my repositories to see how I blend creativity and technical expertise, and feel free to connect!
+I'm a dedicated Frontend Software Developer passionate about creating intuitive, engaging, and performant web applications. I am committed to staying up to date with emerging technologies and best practices, allowing me to tackle complex challenges with innovative solutions. I love collaborating and learning, and I'm looking forward to being part of teams that create impactful solutions. 
 
 * 🌍  I'm based in Brooklyn, New York
 * 🖥️  See my portfolio at [nadiahossain.dev](http://www.nadiahossain.dev/)
